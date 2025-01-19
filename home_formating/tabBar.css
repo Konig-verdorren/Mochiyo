@@ -1,9 +1,12 @@
 #tabBar {
-    position: relative;
-    top: 0;
-    left: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
     border-radius: 30px;
     background-color: rgb(49, 49, 49);
-    width: 30vw;
-    height: 100vh;
+    width: 20%;
+    height: 100%;
 }
