@@ -1,0 +1,7 @@
+#tabBar {
+    position: relative;
+    border-radius: 30px;
+    background-color: rgb(49, 49, 49);
+    width: 30vw;
+    height: 100vh;
+}
